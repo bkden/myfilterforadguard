@@ -25,3 +25,7 @@ thiendia88.net###top > div.p-body:nth-child(5) > div.p-body-inner > ul.p-breadcr
 thiendia88.net###top > div.p-body:nth-child(5) > div.p-body-inner > ul.p-breadcrumbs.p-breadcrumbs--bottom:last-child
 thiendia88.net###footer > div.p-footer-inner > div.p-footer-row:first-child
 @@||greenupload.com^*.gif$image,domain=thiendia88.net
+fshare.vn###web-container > main.mdc-toolbar-fixed-adjust:nth-child(2) > div.ads-login:last-child > div.login-left:first-child > a > img.aligncenter.wp-image-24776.size-full
+fshare.vn###web-container > main.mdc-toolbar-fixed-adjust:nth-child(2) > div.ads-login:last-child > div.login-right:nth-child(2) > a > img.aligncenter.wp-image-24776.size-full
+voz.vn###top > div.p-body:nth-child(5) > div.p-body-inner:last-child > div.p-body-main.p-body-main--withSidebar:last-child > div.p-body-sidebar:last-child
+voz.vn###footer
